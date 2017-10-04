@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    tools:context="slaughter.phporktraceabilty.farmslaughter.HowToUseFragment3">
+
+    <TextView
+        android:id="@+id/howTo3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:textSize="50sp"
+        android:text="@string/how_to_part3"
+        android:textColor="@color/white"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/howTo3"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="40sp"
+        android:textColor="@color/white"
+        android:text="@string/how_to_3" />
+
+
+    <ImageView
+        android:id="@+id/tap1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/taphold1"
+        android:padding="50dp"
+        android:layout_below="@+id/text3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="18dp"
+        android:layout_marginStart="18dp" />
+
+<!--    <ImageView
+        android:id="@+id/tap2"
+        android:layout_width="280dp"
+        android:layout_height="600dp"
+        app:srcCompat="@drawable/taphold"
+        android:padding="15dp"
+        android:layout_below="@+id/text3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp" />-->
+
+
+</RelativeLayout>

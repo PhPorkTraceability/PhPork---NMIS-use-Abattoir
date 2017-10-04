@@ -1,0 +1,67 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    tools:context="slaughter.phporktraceabilty.farmslaughter.HomeFragment">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <!--<TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="@string/total_tags_read"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/totalTags"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/textView11"
+            android:layout_toRightOf="@+id/textView11"
+            android:padding="5dp"
+            android:text="@string/zero"
+            android:textColor="@color/black"
+            android:textSize="20sp" />-->
+
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:id="@+id/swipeRefresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <!--android:layout_below="@+id/textView11"-->
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/pigsList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true" />
+
+        </android.support.v4.widget.SwipeRefreshLayout>
+
+        <TextView
+            android:id="@+id/holdArea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:background="@color/maroon"
+            android:gravity="center"
+            android:padding="50dp"
+            android:text="@string/drop_here_to_hold_pig"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

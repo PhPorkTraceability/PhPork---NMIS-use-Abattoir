@@ -1,0 +1,4 @@
+#Wed Aug 02 17:25:36 PHT 2017
+base.0=/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

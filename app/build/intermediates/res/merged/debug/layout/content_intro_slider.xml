@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <!--<fragment android:id="@+id/fragment"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--app:layout_behavior="@string/appbar_scrolling_view_behavior"-->
+        <!--tools:layout="@layout/fragment_welcome" />-->
+
+    <Button
+        android:id="@+id/prev_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorAccent"
+        android:text="@string/prev_name"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/next_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@color/colorAccent"
+        android:text="@string/next_name"
+        android:textColor="@color/black" />
+
+    <RelativeLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/prev_btn"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/next_btn"
+        android:layout_toLeftOf="@id/next_btn"
+        android:background="@color/colorPrimary" />
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/carl_exdee/.android/build-cache/435931cb91231e84b9e0f19da615178f4f6a7385/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5fd47bc0483baa4b95c571b7fa0aefe2c05d74f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carl_exdee/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e9c8c623bf6e7ed149ca50444e0ef3e051a45e9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_617b22dfa5b31172203a9ee57804e713a1906533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0df0958f36dd83f5b12b564e695c1f1f8ea8e84">
+        <dex dex="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5cb697d899d7d9b5474b8f27171b365d816184f2/classes.dex" />
+    </item>
+
+</items>

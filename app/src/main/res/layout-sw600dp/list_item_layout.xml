@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:id="@+id/listLayout"
+    android:background="@color/lightyellow"
+    android:layout_marginBottom="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pigID"
+        android:visibility="invisible"/>
+    <TextView
+        android:id="@+id/porkID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:text="@string/pID"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/pigID"
+        android:layout_toRightOf="@+id/imageView2"
+        android:layout_toEndOf="@+id/imageView2" />
+
+    <TextView
+        android:id="@+id/breed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/breed"
+        android:textSize="30sp"
+        android:layout_below="@+id/porkID"
+        android:layout_alignLeft="@+id/porkID"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption" />
+
+    <TextView
+        android:id="@+id/gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gender"
+        android:textSize="30sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+        android:layout_below="@+id/breed"
+        android:layout_alignLeft="@+id/breed"
+        android:layout_alignStart="@+id/breed" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/pig"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
+

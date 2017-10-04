@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_accepted"
+        android:icon="@drawable/ic_accept"
+        android:title="@string/accepted" />
+    <item
+        android:id="@+id/nav_rejected"
+        android:icon="@drawable/ic_reject"
+        android:title="@string/rejected" />
+    <item
+        android:id="@+id/nav_onHold"
+        android:icon="@drawable/ic_hold"
+        android:title="@string/onHold" />
+
+    <item
+        android:id="@+id/nav_syncData"
+        android:icon="@drawable/ic_sync"
+        android:title="@string/sync_data" />
+</menu>

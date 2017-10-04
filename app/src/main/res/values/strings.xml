@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Farm Slaughter</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="next_name">Next</string>
+    <string name="prev_name">Previous</string>
+
+    <string name="how_to_part1">How To Use(1/4)</string>
+    <string name="how_to_part2">How To Use(2/4)</string>
+    <string name="how_to_part3">How To Use(3/4)</string>
+    <string name="how_to_part4">How To Use(4/4)</string>
+    <string name="how_to_1">Swipe right to accept pigs.</string>
+    <string name="how_to_2">Swipe left to reject pigs.</string>
+    <string name="how_to_3">Hold then drag and drop item to the bottom part of the screen to hold pigs.</string>
+    <string name="how_to_4">Swipe down to refresh the list of pigs</string>
+
+    <string name="welcome_txt">Welcome to PHPork Farm Traceability App</string>
+    <string name="introduction">This tutorial will help you learn the basics when using the App</string>
+
+    <string name="pID">Pork ID Number</string>
+    <string name="breed">Breed</string>
+    <string name="gender">Gender</string>
+
+    <string name="accepted">Accepted Pigs</string>
+    <string name="onHold">On Hold Pigs</string>
+    <string name="home">Home</string>
+    <string name="back">BACK</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rejected">Rejected Pigs</string>
+    <string name="title_activity_help">help</string>
+
+    <string name="help_accept">Swipe RIGHT to accept pigs.</string>
+    <string name="help_reject">Swipe LEFT to reject pigs.</string>
+    <string name="help_hold">Hold then drag and drop item to the bottom part of the screen to hold pigs. </string>
+
+    <string name="help_accept2">The accepted pig menu contains the list of accepted pig.</string>
+    <string name="help_reject2">The rejected pig menu contains the list of rejected pigs</string>
+    <string name="help_hold2">Pigs in the on hold menu can still be accepted or rejected.</string>
+    <string name="help_refresh">Swipe down to refresh the list of pigs.</string>
+    <string name="pigLabel">Pig Label</string>
+    <string name="week_farrowed">Week Farrowed</string>
+    <string name="farrowing_date">Farrowing Date</string>
+    <string name="pig_label">Pig label:</string>
+    <string name="pBreed">Breed:</string>
+    <string name="pGender">Gender:</string>
+    <string name="pWeek_farrowed">Week farrowed:</string>
+    <string name="pFarrowing_date">Farrowing date:</string>
+    <string name="rfid_tag">RFID Tag:</string>
+    <string name="pRfid_tag">RFID Tag</string>
+    <string name="total_tags_read">Total Tags Read:</string>
+    <string name="zero">0</string>
+    <string name="drop_here_to_hold_pig">Drop Here to Hold Pig</string>
+    <string name="sync_data">Sync Data</string>
+</resources>
+

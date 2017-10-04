@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

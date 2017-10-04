@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/pigLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pigLabel"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:includeFontPadding="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/pLabel"
+        android:layout_toEndOf="@+id/pLabel" />
+
+    <TextView
+        android:id="@+id/pigBreed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/breed"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:includeFontPadding="true"
+        android:layout_below="@+id/pLabel"
+        android:layout_toRightOf="@+id/pBreed"
+        android:layout_toEndOf="@+id/pBreed" />
+
+    <TextView
+        android:id="@+id/pigGender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gender"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:includeFontPadding="true"
+        android:layout_above="@+id/pWeekF"
+        android:layout_toRightOf="@+id/pGender"
+        android:layout_toEndOf="@+id/pGender" />
+
+    <TextView
+        android:id="@+id/pigWeekF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/week_farrowed"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:includeFontPadding="true"
+        android:layout_below="@+id/pigGender"
+        android:layout_toRightOf="@+id/fdate"
+        android:layout_toEndOf="@+id/fdate" />
+
+    <TextView
+        android:id="@+id/pigDateF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/farrowing_date"
+        android:textColor="@color/black"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:includeFontPadding="true"
+        android:layout_below="@+id/pigWeekF"
+        android:layout_toRightOf="@+id/fdate"
+        android:layout_toEndOf="@+id/fdate" />
+
+    <TextView
+        android:id="@+id/pLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:includeFontPadding="true"
+        android:text="Pig label: " />
+
+    <TextView
+        android:id="@+id/pBreed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pLabel"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:includeFontPadding="true"
+        android:text="Breed: " />
+
+    <TextView
+        android:id="@+id/pGender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pigBreed"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:includeFontPadding="true"
+        android:text="Gender: " />
+
+    <TextView
+        android:id="@+id/pWeekF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pGender"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:includeFontPadding="true"
+        android:text="Week farrowed: " />
+
+    <TextView
+        android:id="@+id/fdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pWeekF"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:includeFontPadding="true"
+        android:text="Farrowing date: " />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rfid_tag"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:layout_below="@+id/fdate"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/pRFIDtag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="60sp"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:text="@string/pRfid_tag"
+        android:layout_alignBaseline="@+id/textView9"
+        android:layout_alignBottom="@+id/textView9"
+        android:layout_toRightOf="@+id/textView9"
+        android:layout_toEndOf="@+id/textView9" />
+
+</RelativeLayout>
