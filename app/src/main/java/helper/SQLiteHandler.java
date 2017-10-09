@@ -97,7 +97,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
         String CREATE_USER = "CREATE TABLE " + TABLE_USER + "("
                 + KEY_USERID + " INTEGER PRIMARY KEY,"
                 + KEY_USERNAME + " TEXT UNIQUE,"
-                + KEY_PASSWORD + " TEXT UNIQUE,"
+                + KEY_PASSWORD + " TEXT ,"
                 + KEY_USERTYPE + " TEXT" + ")";
         db.execSQL(CREATE_USER);
 
@@ -114,8 +114,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
                 + KEY_BREEDID + " INTEGER,"
                 + KEY_USER + " TEXT,"
                 + KEY_GNAME + " TEXT,"
-                + KEY_SYNCSTAT + " TEXT"
-                + ")";
+                + KEY_SYNCSTAT + " TEXT" + ")";
         db.execSQL(CREATE_PIG);
 
         String CREATE_MOVEMENT = "CREATE TABLE " + TABLE_MOVEMENT + "("
@@ -125,8 +124,8 @@ public class SQLiteHandler extends SQLiteOpenHelper {
                 + KEY_PENID + " INTEGER,"
                 + KEY_SERVERDATE + " DATE,"
                 + KEY_SERVERTIME + " TIME,"
-                + KEY_SYNCSTAT + " TEXT,"
                 + KEY_PIGID + " INTEGER,"
+                + KEY_SYNCSTAT + " TEXT,"
                 + "FOREIGN KEY(" + KEY_PIGID + ") REFERENCES "
                 + TABLE_PIG + "(" + KEY_PIGID + ")"
                 + ")";
@@ -147,6 +146,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
                 + KEY_SLSTAT + " TEXT,"
                 + KEY_TIMESTAMP + " DATETIME DEFAULT CURRENT_TIMESTAMP,"
                 + KEY_PIGID + " INTEGER,"
+                + KEY_SYNCSTAT + " TEXT,"
                 + " FOREIGN KEY(" + KEY_PIGID + ") REFERENCES "
                 + TABLE_PIG + "(" + KEY_PIGID + ")" + ")";
         db.execSQL(CREATE_SLAUGHTERPIG);
@@ -183,12 +183,12 @@ public class SQLiteHandler extends SQLiteOpenHelper {
     }
 
     public void addSlaughterPigStat(String stat, String pig_id) {
-//        Log.d("updateOnSwipe", "pig_id: "+pig_id+" stat: "+stat);
         SQLiteDatabase db = this.getWritableDatabase();
 
         ContentValues values = new ContentValues();
         values.put(KEY_SLSTAT, stat);
         values.put(KEY_PIGID, pig_id);
+        values.put(KEY_SYNCSTAT, "new");
 
         // Inserting Row
         db.insert(TABLE_SLAUGHTERPIG, null, values);
@@ -196,36 +196,35 @@ public class SQLiteHandler extends SQLiteOpenHelper {
     }
 
     public void removeSlaughterPigStat(String stat, String pig_id) {
-//        Log.d("updateOnSwipe", "pig_id: "+pig_id+" stat: "+stat);
         SQLiteDatabase db = this.getWritableDatabase();
-
-        /*ContentValues values = new ContentValues();
-        values.put(KEY_SLSTAT, stat);
-        values.put(KEY_PIGID, pig_id);*/
 
         // Inserting Row
         db.delete(TABLE_SLAUGHTERPIG, KEY_PIGID +"=? AND "+ KEY_SLSTAT +"=?", new String[] {pig_id, stat});
         db.close(); // Closing database connection
     }
 
-    public void updateOnSwipe(String movement_id, String stat) {
+    public void updateOnSwipe(String movement_id, String stat, String pig_id) {
 //        Log.d("updateOnSwipe", "movementID: "+movement_id);
         SQLiteDatabase db = this.getWritableDatabase();
-        db.execSQL("UPDATE " + TABLE_MOVEMENT + " SET " + KEY_SYNCSTAT + "='"+ stat +"' WHERE movement_id='" + movement_id + "'");
+        db.execSQL("UPDATE " + TABLE_MOVEMENT +
+                " SET " + KEY_SYNCSTAT + "='"+ stat +
+                "' WHERE movement_id='" + movement_id + "' AND pig_id = '" + pig_id + "'");
         db.close(); // Closing database connection
     }
 
     public void updatePigStat(String stat, String pig_id) {
 //        Log.d("updateOnSwipe", "pig ID: "+pig_id);
         SQLiteDatabase db = this.getWritableDatabase();
-        db.execSQL("UPDATE " + TABLE_PIG + " SET " + KEY_PIGSTAT + "='" + stat + "' WHERE pig_id='" + pig_id + "';");
+        db.execSQL("UPDATE " + TABLE_PIG +
+                " SET " + KEY_PIGSTAT + "='" + stat + "', " + KEY_SYNCSTAT + "='new'" +
+                " WHERE pig_id='" + pig_id + "'");
         db.close(); // Closing database connection
     }
 
     public ArrayList<HashMap<String, String>> getAllPigs() {
         ArrayList<HashMap<String, String>> list = new ArrayList<>();
         SQLiteDatabase db = this.getWritableDatabase();
-        String query = "SELECT * FROM "+ TABLE_PIG +";";
+        String query = "SELECT pig_id, pig_status, user FROM " + TABLE_PIG + " WHERE " + KEY_SYNCSTAT + "='new'";
         Cursor cursor = db.rawQuery(query, null);
 
         cursor.moveToFirst();
@@ -234,17 +233,8 @@ public class SQLiteHandler extends SQLiteOpenHelper {
             HashMap<String, String> result = new HashMap<>();
 
             result.put(KEY_PIGID, cursor.getString(0));
-            result.put(KEY_BOARID, cursor.getString(1));
-            result.put(KEY_SOWID, cursor.getString(2));
-            result.put(KEY_FOSTER, cursor.getString(3));
-            result.put(KEY_WEEKF, cursor.getString(4));
-            result.put(KEY_GENDER, cursor.getString(5));
-            result.put(KEY_FDATE, cursor.getString(6));
-            result.put(KEY_PIGSTAT, cursor.getString(7));
-            result.put(KEY_PENID, cursor.getString(8));
-            result.put(KEY_BREEDID, cursor.getString(9));
-            result.put(KEY_GNAME, cursor.getString(10));
-            result.put(KEY_USER, cursor.getString(11));
+            result.put(KEY_PIGSTAT, cursor.getString(1));;
+            result.put(KEY_USER, cursor.getString(2));
 
             cursor.moveToNext();
             list.add(result);
@@ -256,10 +246,10 @@ public class SQLiteHandler extends SQLiteOpenHelper {
         return list;
     }
 
-    public ArrayList<HashMap<String, String>> getAllMovement() {
+    public ArrayList<HashMap<String, String>> getSlaughterStatPig() {
         ArrayList<HashMap<String, String>> list = new ArrayList<>();
         SQLiteDatabase db = this.getWritableDatabase();
-        String query = "SELECT * FROM "+ TABLE_MOVEMENT +";";
+        String query = "SELECT * FROM " + TABLE_SLAUGHTERPIG + " WHERE " + KEY_SYNCSTAT + "='new'";
         Cursor cursor = db.rawQuery(query, null);
 
         cursor.moveToFirst();
@@ -267,10 +257,9 @@ public class SQLiteHandler extends SQLiteOpenHelper {
         for (int i = 0; i < cursor.getCount(); i++) {
             HashMap<String, String> result = new HashMap<>();
 
-            result.put(KEY_DATE, cursor.getString(0));
-            result.put(KEY_TIME, cursor.getString(1));
-            result.put(KEY_SERVERDATE, cursor.getString(2));
-            result.put(KEY_SERVERTIME, cursor.getString(3));
+            result.put(KEY_SLSTAT, cursor.getString(1));
+            result.put(KEY_TIMESTAMP, cursor.getString(2));
+            result.put(KEY_PIGID, cursor.getString(3));
 
             cursor.moveToNext();
             list.add(result);
@@ -295,8 +284,9 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 
             result.put(KEY_TAGID, cursor.getString(0));
             result.put(KEY_TAGRFID, cursor.getString(1));
-            result.put(KEY_LABEL, cursor.getString(2));
-            result.put(KEY_TAGSTAT, cursor.getString(3));
+            result.put(KEY_PIGID, cursor.getString(2));
+            result.put(KEY_LABEL, cursor.getString(3));
+            result.put(KEY_TAGSTAT, cursor.getString(4));
 
             cursor.moveToNext();
             list.add(result);
@@ -353,7 +343,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
                 + TABLE_MOVEMENT + " a JOIN "
                 + TABLE_RFID_TAGS + " b USING(pig_id) JOIN "
                 + TABLE_PIG + " c USING(pig_id) WHERE a."
-                + KEY_SYNCSTAT + "='new' GROUP BY " + KEY_PIGID
+                + KEY_SYNCSTAT + "='new' GROUP BY c." + KEY_PIGID
                 + " ORDER BY a." + KEY_SERVERDATE + " ASC, a." + KEY_SERVERTIME + " ASC;";
 
         Cursor cursor = db.rawQuery(query, null);
@@ -399,13 +389,13 @@ public class SQLiteHandler extends SQLiteOpenHelper {
                 "Largewhite-Landrace"};
         SQLiteDatabase db = this.getWritableDatabase();
 
-        String query = "SELECT c."
+        String query = "SELECT a."
                 + KEY_PIGID + ", b."
-                + KEY_LABEL + ", c."
-                + KEY_GENDER + ", c."
+                + KEY_LABEL + ", a."
+                + KEY_GENDER + ", a."
                 + KEY_BREEDID + " FROM "
                 + TABLE_RFID_TAGS + " b JOIN "
-                + TABLE_PIG + " c USING(pig_id) WHERE c."
+                + TABLE_PIG + " a USING(pig_id) WHERE a."
                 + KEY_PIGSTAT + " = '" + status + "';";
 
         Cursor cursor = db.rawQuery(query, null);
@@ -429,9 +419,9 @@ public class SQLiteHandler extends SQLiteOpenHelper {
         db.close();
 
         if (list.size() == 0) {
-            System.out.println("No data on " + TABLE_SLAUGHTERPIG);
+            System.out.println("No data on " + TABLE_PIG);
         }
-
+        Log.d("GET PIG", list.toString());
         return list;
     }
 

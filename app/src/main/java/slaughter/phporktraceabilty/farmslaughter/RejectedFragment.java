@@ -33,31 +33,10 @@ public class RejectedFragment extends Fragment {
     private static final String KEY_TAGRFID = "tag_rfid";
     private static SQLiteHandler db;
     private ListView lv;
+    private ListAdapter adapter;
 
     public RejectedFragment() {
         // Required empty public constructor
-    }
-
-    public static ArrayList<HashMap<String, String>> loadList() {
-
-        ArrayList<HashMap<String, String>> pigs = db.getPigs("rejected");
-
-        ArrayList<HashMap<String, String>> pigItems = new ArrayList<>();
-
-        for (int i = 0; i < pigs.size(); i++) {
-            HashMap<String, String> a = pigs.get(i);
-            HashMap<String, String> b = new HashMap<>();
-
-            b.put(KEY_LABEL, a.get(KEY_LABEL));
-            b.put(KEY_BREED, a.get(KEY_BREED));
-            b.put(KEY_GENDER, a.get(KEY_GENDER));
-
-//            Pig item = new Pig(a.get(KEY_porkID), a.get(KEY_breed), a.get(KEY_gender));
-            pigItems.add(b);
-
-        }
-
-        return pigItems;
     }
 
     @Override
@@ -75,23 +54,6 @@ public class RejectedFragment extends Fragment {
         recycler.setAdapter(adapter);
         recycler.setLayoutManager(new LinearLayoutManager(getActivity()));*/
         lv = (ListView) view.findViewById(R.id.pigsList);
-
-        return view;
-    }
-
-    @Override
-    public void onStart() {
-        super.onStart();
-
-        ListAdapter adapter = new SimpleAdapter(
-                getActivity(),
-                loadList(),
-                R.layout.list_item_layout,
-                new String[]{KEY_LABEL, KEY_BREED, KEY_GENDER},
-                new int[]{R.id.porkID, R.id.breed, R.id.gender}
-        );
-
-        lv.setAdapter(adapter);
 
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -119,6 +81,46 @@ public class RejectedFragment extends Fragment {
                 pDateF.setText(pigDetails.get(KEY_FDATE));
             }
         });
+
+        loadList();
+
+        return view;
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+
+        loadList();
+    }
+
+    public void loadList() {
+
+        ArrayList<HashMap<String, String>> pigs = db.getPigs("rejected");
+
+        ArrayList<HashMap<String, String>> pigItems = new ArrayList<>();
+
+        for (int i = 0; i < pigs.size(); i++) {
+            HashMap<String, String> a = pigs.get(i);
+            HashMap<String, String> b = new HashMap<>();
+
+            b.put(KEY_LABEL, a.get(KEY_LABEL));
+            b.put(KEY_BREED, a.get(KEY_BREED));
+            b.put(KEY_GENDER, a.get(KEY_GENDER));
+
+//            Pig item = new Pig(a.get(KEY_porkID), a.get(KEY_breed), a.get(KEY_gender));
+            pigItems.add(b);
+        }
+
+        adapter = new SimpleAdapter(
+                getActivity(),
+                pigItems,
+                R.layout.list_item_layout,
+                new String[]{KEY_LABEL, KEY_BREED, KEY_GENDER},
+                new int[]{R.id.porkID, R.id.breed, R.id.gender}
+        );
+
+        lv.setAdapter(adapter);
     }
 
 }

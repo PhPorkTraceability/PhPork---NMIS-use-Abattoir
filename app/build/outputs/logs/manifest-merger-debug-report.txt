@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:2:1-54:12
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:2:1-55:12
 	package
 		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:3:5-56
 		INJECTED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml
@@ -34,110 +34,114 @@ ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\Andro
 	android:name
 		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:9:22-77
 application
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:11:5-52:19
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:11:5-53:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\marmagno\.android\build-cache\206fd0b07d52668a873b9b9f27f4fb95302f0e31\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marmagno\.android\build-cache\8b9acaab166785800817590c725bfb558e00b551\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\132840b4253e5abbe34356a2e34dee99292f4079\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\0f86b256e42062aef14004ab863ebd5c652c5ddd\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:25.3.1] C:\Users\marmagno\.android\build-cache\9c3da7e7c2b2c3a9d79b5e6eccf8dfac74966e57\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.volley:volley:1.0.0] C:\Users\marmagno\.android\build-cache\423ea4680de9800520dc2985baa0f133855a2fc0\output\AndroidManifest.xml:9:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\marmagno\.android\build-cache\719937cf835eb470987689a3eecbd9322c673f90\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marmagno\.android\build-cache\8b9acaab166785800817590c725bfb558e00b551\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\marmagno\.android\build-cache\1a5e505415591b6c39cf0a9ed0a2bf399564f614\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\marmagno\.android\build-cache\00a364bbed1423b6f5150a7ad4e8c84bfc9b0339\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\marmagno\.android\build-cache\38a3b6f94d1fc3eb73b4dc7b9d9e79c606a24a1a\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\marmagno\.android\build-cache\8d34f81ede2f1bdc3201b7b5b1b87e43f83f7021\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\marmagno\.android\build-cache\686141701afd43b2c6d9aa8d289940fbc2c6e233\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\132840b4253e5abbe34356a2e34dee99292f4079\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\0f86b256e42062aef14004ab863ebd5c652c5ddd\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\marmagno\.android\build-cache\161d2f58074e2d34f3bc9c6a31a60a8a2fc22f5c\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\marmagno\.android\build-cache\204b2390a2fd7f4fc5f4896660458075b4008cae\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:15:9-41
 	android:supportsRtl
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:17:9-35
 	android:roundIcon
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:16:9-54
 	android:allowBackup
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:12:9-35
 activity#slaughter.phporktraceabilty.farmslaughter.MainActivity
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:18:9-27:20
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:19:9-28:20
 	android:label
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:20:13-45
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:21:13-45
 	android:theme
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:26:27-74
 receiver#helper.NetworkChangeReceiver
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:29:9-36:20
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:30:9-37:20
 	android:label
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:31:13-50
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:32:13-50
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:30:13-56
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:31:13-56
 intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:32:13-35:29
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:33:13-36:29
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:33:17-79
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:34:17-79
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:33:25-76
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:34:25-76
 action#android.net.wifi.WIFI_STATE_CHANGED
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:34:17-78
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:35:17-78
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:34:25-75
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:35:25-75
 activity#slaughter.phporktraceabilty.farmslaughter.GetDataFromServer
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:38:9-40:51
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:39:9-41:51
 	android:launchMode
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:40:13-48
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:41:13-48
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:39:13-46
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:40:13-46
 activity#slaughter.phporktraceabilty.farmslaughter.LoginActivity
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:41:9-43:51
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:42:9-44:51
 	android:launchMode
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:43:13-48
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:44:13-48
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:42:13-42
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:43:13-42
 activity#slaughter.phporktraceabilty.farmslaughter.IntroSliderActivity
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:44:9-46:51
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:45:9-47:51
 	android:launchMode
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:47:13-48
+	android:name
 		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:46:13-48
-	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:45:13-48
 activity#slaughter.phporktraceabilty.farmslaughter.HomeActivity
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:47:9-50:51
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:48:9-51:51
 	android:parentActivityName
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:49:13-55
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:50:13-55
 	android:launchMode
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:50:13-48
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:51:13-48
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:48:13-41
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:49:13-41
 activity#slaughter.phporktraceabilty.farmslaughter.Help
-ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:51:9-51
+ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:52:9-51
 	android:name
-		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:51:19-39
+		ADDED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml:52:19-39
 uses-sdk
 INJECTED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.1] C:\Users\marmagno\.android\build-cache\206fd0b07d52668a873b9b9f27f4fb95302f0e31\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marmagno\.android\build-cache\8b9acaab166785800817590c725bfb558e00b551\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\132840b4253e5abbe34356a2e34dee99292f4079\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\0f86b256e42062aef14004ab863ebd5c652c5ddd\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\marmagno\.android\build-cache\f337563f4c5aebd81d16bccf292ce07778b28e24\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.3.1] C:\Users\marmagno\.android\build-cache\9c3da7e7c2b2c3a9d79b5e6eccf8dfac74966e57\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.volley:volley:1.0.0] C:\Users\marmagno\.android\build-cache\423ea4680de9800520dc2985baa0f133855a2fc0\output\AndroidManifest.xml:7:5-43
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\marmagno\.android\build-cache\719937cf835eb470987689a3eecbd9322c673f90\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marmagno\.android\build-cache\8b9acaab166785800817590c725bfb558e00b551\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\marmagno\.android\build-cache\1a5e505415591b6c39cf0a9ed0a2bf399564f614\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\marmagno\.android\build-cache\00a364bbed1423b6f5150a7ad4e8c84bfc9b0339\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\marmagno\.android\build-cache\38a3b6f94d1fc3eb73b4dc7b9d9e79c606a24a1a\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\marmagno\.android\build-cache\8d34f81ede2f1bdc3201b7b5b1b87e43f83f7021\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\marmagno\.android\build-cache\686141701afd43b2c6d9aa8d289940fbc2c6e233\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\132840b4253e5abbe34356a2e34dee99292f4079\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\0f86b256e42062aef14004ab863ebd5c652c5ddd\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\marmagno\.android\build-cache\161d2f58074e2d34f3bc9c6a31a60a8a2fc22f5c\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\marmagno\.android\build-cache\204b2390a2fd7f4fc5f4896660458075b4008cae\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
@@ -150,16 +154,16 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ma
 		INJECTED from C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] C:\Users\marmagno\.android\build-cache\206fd0b07d52668a873b9b9f27f4fb95302f0e31\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marmagno\.android\build-cache\8b9acaab166785800817590c725bfb558e00b551\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\132840b4253e5abbe34356a2e34dee99292f4079\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\0f86b256e42062aef14004ab863ebd5c652c5ddd\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\marmagno\.android\build-cache\f337563f4c5aebd81d16bccf292ce07778b28e24\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:transition:25.3.1] C:\Users\marmagno\.android\build-cache\9c3da7e7c2b2c3a9d79b5e6eccf8dfac74966e57\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marmagno\.android\build-cache\8b9acaab166785800817590c725bfb558e00b551\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\marmagno\.android\build-cache\1a5e505415591b6c39cf0a9ed0a2bf399564f614\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\marmagno\.android\build-cache\00a364bbed1423b6f5150a7ad4e8c84bfc9b0339\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\marmagno\.android\build-cache\38a3b6f94d1fc3eb73b4dc7b9d9e79c606a24a1a\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\marmagno\.android\build-cache\8d34f81ede2f1bdc3201b7b5b1b87e43f83f7021\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\marmagno\.android\build-cache\686141701afd43b2c6d9aa8d289940fbc2c6e233\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\132840b4253e5abbe34356a2e34dee99292f4079\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marmagno\.android\build-cache\0f86b256e42062aef14004ab863ebd5c652c5ddd\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\marmagno\.android\build-cache\161d2f58074e2d34f3bc9c6a31a60a8a2fc22f5c\output\AndroidManifest.xml:25:5-27:34
 	android:value
 		ADDED from [com.android.support:design:25.3.1] C:\Users\marmagno\.android\build-cache\206fd0b07d52668a873b9b9f27f4fb95302f0e31\output\AndroidManifest.xml:27:9-31

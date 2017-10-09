@@ -1,303 +1,71 @@
 [
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_accepted.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_accepted.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_help.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ready_now.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_ready_now.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use2.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_how_to_use2.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_introduction.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_introduction.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_how_to_use.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\nav_header_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_home.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_help.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_model.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\user_model.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_accepted.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_accepted.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\activity_help.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use4.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_how_to_use4.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_home.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\list_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_introduction.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_introduction.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use2.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_how_to_use2.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use3.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_how_to_use3.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_on_hold.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_on_hold.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_help.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\list_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pig_details_layout.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\pig_details_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_how_to_use.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_intro_slider.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\content_intro_slider.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -312,228 +80,8 @@
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_on_hold.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_on_hold.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_model.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\user_model.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_need_help.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_need_help.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rejected.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_rejected.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_home.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_model.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\user_model.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pig_details_layout.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\pig_details_layout.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use2.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_how_to_use2.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ready_now.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_ready_now.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro_slider.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\activity_intro_slider.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\app_bar_main.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_introduction.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_introduction.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_how_to_use.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\list_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rejected.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_rejected.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rejected.xml",
@@ -544,272 +92,88 @@
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\login_page.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_accepted.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_accepted.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_model.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\user_model.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_need_help.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_need_help.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use4.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_how_to_use4.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\list_item_layout.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_introduction.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_introduction.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_on_hold.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_on_hold.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\login_page.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\nav_header_main.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro_slider.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\activity_intro_slider.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use4.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_how_to_use4.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\app_bar_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\content_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\content_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use3.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_how_to_use3.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\app_bar_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_intro_slider.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\content_intro_slider.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_accepted.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_accepted.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\nav_header_main.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\activity_help.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_how_to_use.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pig_details_layout.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\pig_details_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use4.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\fragment_how_to_use4.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\login_page.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use2.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_how_to_use2.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -820,6 +184,22 @@
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
@@ -828,88 +208,100 @@
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_how_to_use3.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_how_to_use3.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\activity_help.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_on_hold.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_on_hold.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_bottom_navigation_item.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pig_details_layout.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\pig_details_layout.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro_slider.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\activity_intro_slider.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_intro_slider.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout\\content_intro_slider.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\fb436fa74ebec26986eccbe65bc86faa27e24c74\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro_slider.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout\\activity_intro_slider.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\206fd0b07d52668a873b9b9f27f4fb95302f0e31\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
         "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\home\\carl_exdee\\.android\\build-cache\\24adbc28ba944ef423bf3fae97f49941892d44b5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\marmagno\\.android\\build-cache\\8b9acaab166785800817590c725bfb558e00b551\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",

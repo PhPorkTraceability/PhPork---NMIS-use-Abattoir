@@ -3,39 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="/home/carl_exdee/.android/build-cache/435931cb91231e84b9e0f19da615178f4f6a7385/output/jars/classes.jar"
+        jar="C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5fd47bc0483baa4b95c571b7fa0aefe2c05d74f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/carl_exdee/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e9c8c623bf6e7ed149ca50444e0ef3e051a45e9e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
+        revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_617b22dfa5b31172203a9ee57804e713a1906533/classes.dex" />
+        <dex dex="C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5052849e1a160e41e5d0740c0ad16d7a0b9a7606\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\MyFiles\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="b0df0958f36dd83f5b12b564e695c1f1f8ea8e84">
-        <dex dex="/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5cb697d899d7d9b5474b8f27171b365d816184f2/classes.dex" />
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_dd77f0cd1ee7d76459d83d684b99052a6da08d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marmagno\.android\build-cache\423ea4680de9800520dc2985baa0f133855a2fc0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b61e60504e803d288ae43b25f8fcb5bc1fab3878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marmagno\.android\build-cache\204b2390a2fd7f4fc5f4896660458075b4008cae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f917a676a8da0b3592f3963c8e5e790fa7bf2a21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="92af046bb83346669051199cc2072542e29d6c0e">
+        <dex dex="C:\MyFiles\AndroidStudioProjects\NMIS-use Abattoir\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_94e5a3cfe185fbcb50b76bbb7fc89cb4d58e270d\classes.dex" />
     </item>
 
 </items>

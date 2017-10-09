@@ -36,12 +36,11 @@ public class OnHoldFragment extends Fragment {
     private RecyclerView recycler;
     private MyAdapter adapter;
     private List<Pig> pigList;
-    private CoordinatorLayout coordinatorLayout;
+    private View v;
 
     public OnHoldFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -49,8 +48,10 @@ public class OnHoldFragment extends Fragment {
         db = SQLiteHandler.getInstance(getActivity());
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_on_hold, container, false);
-        coordinatorLayout = (CoordinatorLayout) view.findViewById(R.id.coordinatorLayout);
         recycler = (RecyclerView) view.findViewById(R.id.pigsList);
+
+        loadList();
+        v = view;
         return view;
     }
 
@@ -111,11 +112,11 @@ public class OnHoldFragment extends Fragment {
         updateData(pID, movement_id, status);
 
         Snackbar snackbar = Snackbar
-                .make(coordinatorLayout, "Pig moved to " + status + " list.", Snackbar.LENGTH_LONG)
+                .make(v, "Pig moved to " + status + " list.", Snackbar.LENGTH_LONG)
                 .setAction("UNDO", new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        Snackbar snackbar1 = Snackbar.make(coordinatorLayout, "Pig is restored!", Snackbar.LENGTH_SHORT);
+                        Snackbar snackbar1 = Snackbar.make(v, "Pig is restored!", Snackbar.LENGTH_SHORT);
                         snackbar1.show();
                         undoUpdate(pID, movement_id);
                         loadList();
@@ -126,12 +127,12 @@ public class OnHoldFragment extends Fragment {
 
     private void updateData(String pID, String movement_id, String status) {
         db.addSlaughterPigStat(status, pID);
-        db.updateOnSwipe(movement_id, "old");
+        db.updateOnSwipe(movement_id, "old", pID);
         db.updatePigStat(status, pID);
     }
 
     private void undoUpdate(String pID, String movement_id) {
-        db.updateOnSwipe(movement_id, "old");
+        db.updateOnSwipe(movement_id, "old", pID);
         db.updatePigStat("on hold", pID);
     }
 

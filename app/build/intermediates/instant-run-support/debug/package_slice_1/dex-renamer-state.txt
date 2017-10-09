@@ -1,4 +1,4 @@
-#Wed Aug 02 17:25:36 PHT 2017
-base.0=/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+#Wed Oct 04 14:40:54 SGT 2017
+base.0=C\:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
 renamed.0=classes.dex
-file.0=/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex
+file.0=C\:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

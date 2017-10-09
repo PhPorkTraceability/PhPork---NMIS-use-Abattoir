@@ -3,6 +3,7 @@ package slaughter.phporktraceabilty.farmslaughter;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -32,6 +33,7 @@ import app.AppController;
 import helper.NetworkUtil;
 import helper.SQLiteHandler;
 import helper.SessionManager;
+import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 /**
  * Created by marmagno on 5/16/2017.
@@ -89,6 +91,11 @@ public class GetDataFromServer extends Activity {
     //A ProgressDialog View
     private ProgressDialog progressDialog;
     private AlertDialog alertDialog;
+
+    @Override
+    protected void attachBaseContext(Context newBase) {
+        super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -274,9 +281,9 @@ public class GetDataFromServer extends Activity {
 
         db2.close();
 
-//        sql = "INSERT INTO " + TABLE_MOVEMENT + " VALUES(?,?,?,?,?,?,?,?) ";
-//        db2 = db.getWritableDatabase();
-//        db2.beginTransactionNonExclusive();
+       /* sql = "INSERT INTO " + TABLE_MOVEMENT + " VALUES(?,?,?,?,?,?,?,?) ";
+        db2 = db.getWritableDatabase();
+        db2.beginTransactionNonExclusive();*/
 
         movement = new JSONArray();
         movement = resp.getJSONArray("movement");
@@ -297,8 +304,7 @@ public class GetDataFromServer extends Activity {
 
             db.addMovement(movement_id, date_moved, time_moved, pen_id,
                     server_date, server_time, pig_id, "new");
-            /*
-            stmt.bindString(1, movement_id);
+            /*stmt.bindString(1, String.valueOf(i++));
             stmt.bindString(2, date_moved);
             stmt.bindString(3, time_moved);
             stmt.bindString(4, pen_id);
@@ -308,15 +314,12 @@ public class GetDataFromServer extends Activity {
             stmt.bindString(8, pig_id);
 
             stmt.execute();
-            stmt.clearBindings();
-            */
+            stmt.clearBindings();*/
         }
-/*
-        db2.setTransactionSuccessful();
+       /* db2.setTransactionSuccessful();
         db2.endTransaction();
 
-        db2.close();
-*/
+        db2.close();*/
 
         sql = "INSERT OR REPLACE INTO " + TABLE_RFID_TAGS + " VALUES(?,?,?,?,?) ";
         db2 = db.getWritableDatabase();
@@ -382,7 +385,7 @@ public class GetDataFromServer extends Activity {
                 .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
-                        importTables();
+                        getAllDataByNet();
                     }
                 })
                 .setNegativeButton(android.R.string.no, new DialogInterface.OnClickListener() {

@@ -1,4 +1,7 @@
-#Fri Aug 04 14:26:48 PHT 2017
-base.0=/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/carl_exdee/Desktop/198/porktracking/FarmSlaughter/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Mon Oct 09 13:24:02 SGT 2017
+base.0=C\:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5052849e1a160e41e5d0740c0ad16d7a0b9a7606
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_94e5a3cfe185fbcb50b76bbb7fc89cb4d58e270d\\classes.dex
+base.1=C\:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_94e5a3cfe185fbcb50b76bbb7fc89cb4d58e270d
+file.0=C\:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5052849e1a160e41e5d0740c0ad16d7a0b9a7606\\classes.dex

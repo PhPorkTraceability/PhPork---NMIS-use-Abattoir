@@ -1,6 +1,7 @@
 package slaughter.phporktraceabilty.farmslaughter;
 
 import android.app.AlertDialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -24,6 +25,8 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 
+import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.File;
@@ -39,6 +42,7 @@ import app.AppController;
 import helper.NetworkUtil;
 import helper.SQLiteHandler;
 import helper.SessionManager;
+import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 public class HomeActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -50,6 +54,11 @@ public class HomeActivity extends AppCompatActivity
     TextView mTextView;
     DrawerLayout drawer;
     SQLiteHandler db;
+
+    @Override
+    protected void attachBaseContext(Context newBase) {
+        super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -199,16 +208,38 @@ public class HomeActivity extends AppCompatActivity
         final String tag_string_req = "post_alldata";
 
         db = SQLiteHandler.getInstance(this);
-        Map<String, ArrayList<HashMap<String, String>>> params = new HashMap<>();
-        ArrayList<HashMap<String, String>> pig = db.getAllPigs();
-        ArrayList<HashMap<String, String>> movement = db.getAllMovement();
-        ArrayList<HashMap<String, String>> rfid_tags = db.getAllRFIDtags();
-        ArrayList<HashMap<String, String>> user = db.getAllUser();
 
-        params.put("pig", pig);
-        params.put("movement", movement);
-        params.put("rfid_tags", rfid_tags);
-        params.put("user", user);
+        JSONArray pig_array = new JSONArray();
+        JSONArray slaughter_data = new JSONArray();
+        Map<String, JSONArray> params = new HashMap<>();
+        try {
+            ArrayList<HashMap<String, String>> pig = db.getAllPigs();
+
+            for(int i = 0;i < pig.size();i++) {
+                HashMap<String, String> d = pig.get(i);
+                JSONObject j = new JSONObject();
+                j.put("pig_id", d.get("pig_id"));
+                j.put("pig_status", d.get("pig_status"));
+                j.put("user", d.get("user"));
+                pig_array.put(j);
+            }
+
+            ArrayList<HashMap<String, String>> slaughter_pig = db.getSlaughterStatPig();
+
+            for(int i = 0;i < slaughter_pig.size();i++) {
+                HashMap<String, String> d = slaughter_pig.get(i);
+                JSONObject j = new JSONObject();
+                j.put("slaughter_stat", d.get("slaughter_stat"));
+                j.put("slaughter_timestamp", d.get("slaughter_timestamp"));
+                j.put("pig_id", d.get("pig_id"));
+                slaughter_data.put(j);
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+
+        params.put("pig", pig_array);
+        params.put("slaughter_pig", slaughter_data);
 
         JSONObject jsonObj = new JSONObject(params);
 

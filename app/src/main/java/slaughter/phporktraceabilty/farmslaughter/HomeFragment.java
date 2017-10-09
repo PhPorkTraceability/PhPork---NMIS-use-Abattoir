@@ -56,7 +56,7 @@ public class HomeFragment extends Fragment {
     private SQLiteHandler db;
     private SwipeRefreshLayout sr;
     private AlertDialog alertDialog;
-    private CoordinatorLayout coordinatorLayout;
+    private View v;
     private TextView textview;
 
     public HomeFragment() {
@@ -73,7 +73,6 @@ public class HomeFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_home, container, false);
 //        tTags = (TextView) view.findViewById(R.id.totalTags);
         textview = (TextView) view.findViewById(R.id.holdArea);
-        coordinatorLayout = (CoordinatorLayout) view.findViewById(R.id.coordinatorLayout);
         recycler = (RecyclerView) view.findViewById(R.id.pigsList);
         sr = (SwipeRefreshLayout) view.findViewById(R.id.swipeRefresh);
         sr.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
@@ -138,6 +137,7 @@ public class HomeFragment extends Fragment {
             }
         });
 
+        v = view;
         return view;
     }
 
@@ -204,11 +204,11 @@ public class HomeFragment extends Fragment {
         updateData(pID, movement_id, status);
 
         Snackbar snackbar = Snackbar
-                .make(coordinatorLayout, "Pig moved to " + status + " list.", Snackbar.LENGTH_LONG)
+                .make(v, "Pig moved to " + status + " list.", Snackbar.LENGTH_LONG)
                 .setAction("UNDO", new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        Snackbar snackbar1 = Snackbar.make(coordinatorLayout, "Pig is restored!", Snackbar.LENGTH_SHORT);
+                        Snackbar snackbar1 = Snackbar.make(v, "Pig is restored!", Snackbar.LENGTH_SHORT);
                         snackbar1.show();
                         undoUpdate(pID, movement_id, status);
                         loadList();
@@ -219,14 +219,14 @@ public class HomeFragment extends Fragment {
 
     private void updateData(String pID, String movement_id, String status) {
         db.addSlaughterPigStat(status, pID);
-        db.updateOnSwipe(movement_id, "old");
+        db.updateOnSwipe(movement_id, "old", pID);
         db.updatePigStat(status, pID);
     }
 
     private void undoUpdate(String pID, String movement_id, String status) {
         db.removeSlaughterPigStat(status, pID);
-        db.updateOnSwipe(movement_id, "new");
-        db.updatePigStat("growing", pID);
+        db.updateOnSwipe(movement_id, "new", pID);
+        db.updatePigStat("slaughter", pID);
     }
 
     public void getMovement(JSONObject resp) throws JSONException {

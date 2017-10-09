@@ -8,168 +8,16 @@
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\activity_intro_slider.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_introduction.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_introduction.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_home.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_home.xml"
-    },
-    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use4.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use4.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_welcome.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_welcome.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_item_layout.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\list_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_on_hold.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_on_hold.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_welcome.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_welcome.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\app_bar_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\app_bar_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\login_page.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\login_page.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\content_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\content_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\content_intro_slider.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\content_intro_slider.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\pig_details_layout.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\pig_details_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_accepted.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_accepted.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_rejected.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_rejected.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_rejected.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_rejected.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\content_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\content_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_accepted.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_accepted.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\nav_header_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\nav_header_main.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use3.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use3.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\pig_details_layout.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\pig_details_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_help.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_help.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\app_bar_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\app_bar_main.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\login_page.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\login_page.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_need_help.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_need_help.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_help.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\activity_help.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\content_intro_slider.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\content_intro_slider.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_accepted.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_accepted.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_intro_slider.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\activity_intro_slider.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_home.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\activity_home.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use2.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use2.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\user_model.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\user_model.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_on_hold.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_on_hold.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use3.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use3.xml"
-    },
-    {
-        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\content_intro_slider.xml",
-        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\content_intro_slider.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_home.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_home.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\user_model.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\user_model.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\pig_details_layout.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\pig_details_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_item_layout.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\list_item_layout.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\login_page.xml",
@@ -180,10 +28,6 @@
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_introduction.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_intro_slider.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\activity_intro_slider.xml"
-    },
-    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use2.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use2.xml"
     },
@@ -192,52 +36,16 @@
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_welcome.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use4.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use4.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_help.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\activity_help.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_help.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_help.xml"
-    },
-    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_ready_now.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_ready_now.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\list_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\user_model.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\user_model.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_home.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\activity_home.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\content_main.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\content_main.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_item_layout.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\list_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_rejected.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_rejected.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use3.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use3.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_introduction.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_introduction.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_rejected.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_rejected.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\nav_header_main.xml",
@@ -252,35 +60,43 @@
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_help.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\activity_help.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use3.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use3.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use2.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use2.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_home.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\activity_home.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_on_hold.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_on_hold.xml"
-    },
-    {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use4.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\others\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use4.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\pig_details_layout.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\pig_details_layout.xml"
     },
     {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_how_to_use.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_how_to_use.xml"
     },
     {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_need_help.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_need_help.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_help.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_accepted.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_accepted.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_home.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\activity_home.xml"
+    },
+    {
         "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_help.xml",
         "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_help.xml"
     },
     {
-        "merged": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\nav_header_main.xml",
-        "source": "C:\\home\\carl_exdee\\Desktop\\198\\porktracking\\FarmSlaughter\\app\\src\\main\\res\\layout-sw720dp\\nav_header_main.xml"
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_on_hold.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\fragment_on_hold.xml"
+    },
+    {
+        "merged": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\content_intro_slider.xml",
+        "source": "C:\\MyFiles\\AndroidStudioProjects\\NMIS-use Abattoir\\app\\src\\main\\res\\layout-sw720dp\\content_intro_slider.xml"
     }
 ]

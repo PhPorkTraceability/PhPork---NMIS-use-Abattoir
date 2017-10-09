@@ -1,6 +1,7 @@
 package slaughter.phporktraceabilty.farmslaughter;
 
 import android.app.Dialog;
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.ActivityInfo;
@@ -17,6 +18,7 @@ import java.util.HashMap;
 
 import helper.SQLiteHandler;
 import helper.SessionManager;
+import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 /**
  * Created by marmagno on 5/17/2017.
@@ -34,6 +36,11 @@ public class LoginActivity extends AppCompatActivity {
     //    private Dialog passwordD = null;
     private SQLiteHandler db;
     private SessionManager session;
+
+    @Override
+    protected void attachBaseContext(Context newBase) {
+        super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

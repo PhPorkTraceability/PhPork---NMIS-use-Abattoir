@@ -2,6 +2,7 @@ package slaughter.phporktraceabilty.farmslaughter;
 
 import android.app.Fragment;
 import android.app.FragmentTransaction;
+import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
@@ -16,6 +17,7 @@ import android.widget.RelativeLayout;
 
 import helper.IntroSliderSession;
 import listeners.OnSwipeTouchListener;
+import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 /**
  * Created by marmagno on 5/22/2017.
@@ -27,6 +29,11 @@ public class IntroSliderActivity extends AppCompatActivity {
     private int mIndex;
     private Button next_btn;
     private Button prev_btn;
+
+    @Override
+    protected void attachBaseContext(Context newBase) {
+        super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
+    }
 
     public IntroSliderActivity() {
         super();
